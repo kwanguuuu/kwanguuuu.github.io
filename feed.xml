@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kwang's blog</title>
+    <description>j'espère en votre avenir
+</description>
+    <link>https://kwanguuuu.github.io//</link>
+    <atom:link href="https://kwanguuuu.github.io//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 02 Jun 2020 00:32:36 +0900</pubDate>
+    <lastBuildDate>Tue, 02 Jun 2020 00:32:36 +0900</lastBuildDate>
+    <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>첫 이직 면접 질문들</title>
+        <description>&lt;h2 id=&quot;첫-이직-면접-질문들&quot;&gt;첫 이직 면접 질문들&lt;/h2&gt; &lt;p&gt;면접 질문은 정말 회사마다 다양했다. 모든회사가 30%정도의 질문은 똑같이 물어봤던 것 같다. 경력 지원이어서, 직선적인 면접 질문들 보다는 이전에 했던 업무경험을 기반으로 구현, 개념, 직선적인...</description>
+        <pubDate>Tue, 02 Jun 2020 00:00:00 +0900</pubDate>
+        <link>https://kwanguuuu.github.io//diary/2020/06/02/job-offering-2.html</link>
+        <guid isPermaLink="true">https://kwanguuuu.github.io//diary/2020/06/02/job-offering-2.html</guid>
+        
+        
+        <category>Diary</category>
+        
+      </item>
+    
+      <item>
+        <title>이직 경험을 통해 느낀점.</title>
+        <description>&lt;p&gt;6월 15일 부터 이직한 회사에 출근하기로 확정이 되었다. 지난 3월 31일 퇴사 후, 약 2달 반( 퇴사 전 2주 연차소진해 마지막 출근은 3월13일)의 시간동안 아주아주 불안했었지만, 지금은 이직 준비기간동안 했던...</description>
+        <pubDate>Fri, 29 May 2020 00:00:00 +0900</pubDate>
+        <link>https://kwanguuuu.github.io//diary/2020/05/29/job-offering-1.html</link>
+        <guid isPermaLink="true">https://kwanguuuu.github.io//diary/2020/05/29/job-offering-1.html</guid>
+        
+        
+        <category>Diary</category>
+        
+      </item>
+    
+      <item>
+        <title>최근 일상 기록(20.05.10)</title>
+        <description>&lt;h2 id=&quot;1&quot;&gt;1.&lt;/h2&gt; &lt;p&gt;깃허브 블로그를 만들고, 테마를 적용하고, 조금 수정해보고 첫 글을 쓴다.&lt;/p&gt; &lt;p&gt;이전에도 블로그(티스토리) 만들어 논 게 있었는데,&lt;/p&gt; &lt;ol&gt; &lt;li&gt;마지막 작성이 몇년전.. (그리고 일기성 글이었다)&lt;/li&gt; &lt;li&gt;개발적인 행위를 조금더 할 수...</description>
+        <pubDate>Sun, 10 May 2020 00:00:00 +0900</pubDate>
+        <link>https://kwanguuuu.github.io//diary/2020/05/10/diary-test.html</link>
+        <guid isPermaLink="true">https://kwanguuuu.github.io//diary/2020/05/10/diary-test.html</guid>
+        
+        <category>Diary</category>
+        
+        <category>일기</category>
+        
+        
+        <category>Diary</category>
+        
+      </item>
+    
+  </channel>
+</rss>
